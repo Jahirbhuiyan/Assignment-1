@@ -1,0 +1,107 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orangered);
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
+.flexible-content{
+    display: flex;
+}
+
+    
+.half-width1{
+    width: 50%;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+.half-width1 img{
+width: 80%;
+height: 85%;
+}
+.half-width2{
+    width: 50%;
+    margin-top: 5%;
+   
+}
+.half-width2 img{
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 2%;
+  
+}
+h1{
+    font-size: 40px;
+}
+.h1-border{
+    border-left: solid green;
+    padding-left: 10px;
+}
+.center-align{
+    text-align: center;
+    margin-top: 5%;
+}
+.box-shadow{
+    width: 300px;
+    height: 300px; 
+    box-shadow: 5px 5px 60px whitesmoke;
+    border-radius: 20px;
+    padding: 25px 25px 60px;
+}
+.box-shadow img{
+    width: 50%;
+}
+#blog-1{
+    background-color: rgb(206, 207, 207);
+    margin-left: 2%;
+   
+}
+#blog-2{
+    background-color: lightcyan;
+    margin-left: 2%;
+    
+}
+#blog-3{
+background-color: lightpink;
+margin-left: 2%;
+
+}
+
+#background-image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 32%;
+}
+#background-image1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: right bottom;
+    
+}
+.rearrange{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 4%;
+    
+  
+}
+.footer-item{
+    text-align: center;
+    font-size: small;
+}
+.footer-area{
+    background-color: olivedrab;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
