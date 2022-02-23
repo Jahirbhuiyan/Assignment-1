@@ -100,8 +100,9 @@ margin-left: 2%;
     font-size: small;
 }
 .footer-area{
-    background-color: olivedrab;
+    background-color: black;
     border-radius: 5px;
     margin-left: 10px;
     margin-right: 10px;
+    color: white;
 }
